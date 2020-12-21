@@ -1,7 +1,7 @@
 # Formation control code
 - Formation control code is in the python script named as "*Formation_control.py*".
 
-- Demonstated data are given in the text files ( vd.txt and wd.txt contain ).
+- Demonstated data are given in the text files ( vd.txt and wd.txt).
 
 - Following output plots can be obtained from this code.
 
